@@ -1,4 +1,0 @@
-"scripts": {
-  "postinstall": "apt-get update && apt-get install -y gcc",
-  "start": "node server.js"
-}
